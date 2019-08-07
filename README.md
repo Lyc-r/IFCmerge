@@ -1,0 +1,2 @@
+# IFCmerge
+IFC files
