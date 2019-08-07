@@ -1,5 +1,6 @@
 # IFCmerge
 IFC files
+
 A representes that the files are from ArchiCAD
 
 R representes that the files are from Revit
